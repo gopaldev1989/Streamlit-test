@@ -9,7 +9,8 @@ import matplotlib.pyplot as plt
 
 
 DATA_URL = (
-    "/users/gopald/gopal_jul_30_2019/personal-aua/py4e/Tweets.csv"
+   # "/users/gopald/gopal_jul_30_2019/personal-aua/py4e/Tweets.csv"
+    "Tweets.csv"
 )
 
 st.title("Sentiment Analysis of Tweets about US Airlines")
