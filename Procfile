@@ -1,1 +1,1 @@
-web: streamlit run app1.py --log-file -
+web: sh setup.sh && streamlit run app1.py
